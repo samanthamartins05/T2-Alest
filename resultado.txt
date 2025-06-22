@@ -1,0 +1,5 @@
+23
+45
+34
+Quantidade de nodos visitados: 3
+Resultado: Achou
